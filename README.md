@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ramazan Topkaya, I'm currently at my extra year at my university so I'm available to work 5 + 1 days/week
+- 👋 Hi, I’m Ramazan Topkaya, I'm currently at my extra year in my university so I'm available to work 5 + 1 days/week
 - 👀 I’m interested in React.js focused Frontend development and Node.js focused Backend development.
 - 🌱 I’m currently learning React.js as well as mastering my Javascript skills.
 - 💞️ I’m looking to collaborate on short term/long term/voluntarily internship, candidate developer/engineer.
